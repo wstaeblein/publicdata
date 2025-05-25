@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Game of Life",
+        "desc": "Implementazione dell'automazione cellulare nota come il gioco della vita. Dimostra come regole semplici possano generare una grande complessità.",
+        "id": "gol",
+        "link": "https://g-o-l.netlify.app/"
+    },
+    {
+        "name": "Restaurateur",
+        "desc": "Proiezione di costi e profitti per i proprietari di bar, ristoranti, caffè e attività simili.",
+        "id": "restaurateur",
+        "link": "https://restaurateur2.netlify.app/"
+    }
+]
